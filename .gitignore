@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+
+# Secrets and environment-specific configuration
+.env
+.env.*
+*.pem
+*.key
+*token*
+*secret*
+*password*
+config/*.json
+!config_examples/*.example.json
+
+# Runtime/private data
+backups/
+data/
+logs/
+reports/
+exports/
+face_data/
+visual_memory/
+camera_captures/
+*.sqlite
+*.db
+*.zip
+
+# Windows / editors
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
