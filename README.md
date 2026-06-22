@@ -103,4 +103,4 @@ Copyright © 2026 Dean Cooke. All rights reserved. This repository is published 
 
 ## Author
 
-Built by [Dean Cooke](https://github.com/deancooke05) — MEng Aerospace Engineering with Pilot Studies student, exploring practical AI, automation, embedded systems, computer vision, and engineering software.
+Built by [Dean Cooke](https://github.com/deancooke05) — MEng Aerospace Engineering with Pilot Studies student
