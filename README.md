@@ -78,9 +78,25 @@ Run the small test suite with:
 python -m unittest discover -s tests -v
 ```
 
-## Screenshots
+## Interface snapshots
 
-Screenshots are being added as the project is documented. The intended gallery and safe-capture checklist are in [docs/SCREENSHOT_GUIDE.md](docs/SCREENSHOT_GUIDE.md).
+### Command Centre
+![JARVIS Command Centre](01_command_centre.png.png)
+
+### Presence Centre
+![JARVIS Presence Centre](02_presence_centre.png.png)
+
+### Daily Briefing
+![JARVIS Daily Briefing](03_daily_briefing.png.png)
+
+### Mission Control
+![JARVIS Mission Control](04_mission_control.png.png)
+
+### Performance Guard
+![JARVIS Performance Guard](05_performance_guard.png.png)
+
+### Smart Room Control
+![JARVIS Smart Room Control](06_smart_room_control.png.png)
 
 ## Roadmap
 
